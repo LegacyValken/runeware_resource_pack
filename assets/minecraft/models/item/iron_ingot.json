@@ -5,9 +5,9 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "runeware_models/steel_ingot"},
-		{"predicate": {"custom_model_data":2}, "model": "runeware_models/obsidian_ingot"},
-		{"predicate": {"custom_model_data":3}, "model": "runeware_models/quartz_ingot"},
-		{"predicate": {"custom_model_data":4}, "model": "runeware_models/hell_ingot"}
+		{"predicate": {"custom_model_data":1}, "model": "runeware_models/ingots/steel_ingot"},
+		{"predicate": {"custom_model_data":2}, "model": "runeware_models/ingots/obsidian_ingot"},
+		{"predicate": {"custom_model_data":3}, "model": "runeware_models/ingots/quartz_ingot"},
+		{"predicate": {"custom_model_data":4}, "model": "runeware_models/ingots/hell_ingot"}
 	]
 }
