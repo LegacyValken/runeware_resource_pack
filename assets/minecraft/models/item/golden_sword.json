@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": 
+	{
+		"layer0": "item/golden_sword"
+	},
+	
+	"overrides": 
+	[
+		{"predicate": {"custom_model_data":1}, "model": "runeware_models/g_rapier"}
+	]
+}

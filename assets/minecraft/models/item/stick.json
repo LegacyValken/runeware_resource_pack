@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	
+	"overrides": [
+        {"predicate": {"custom_model_data":1000}, "model": "runeware_models/key"},
+        {"predicate": {"custom_model_data":1001}, "model": "runeware_models/skeleton_key"},
+		{"predicate": {"custom_model_data":1002}, "model": "runeware_models/skeleton_key"},
+		{"predicate": {"custom_model_data":1100}, "model": "runeware_models/lockpick"},
+		{"predicate": {"custom_model_data":1200}, "model": "runeware_models/keyring"}
+	]
+}

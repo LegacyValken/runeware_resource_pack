@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/flint"
+	},
+	
+	"overrides": [
+        {"predicate": {"custom_model_data":1000}, "model": "runeware_models/lock"},
+		{"predicate": {"custom_model_data":1100}, "model": "runeware_models/cylinders/cylinder_stone"},
+		{"predicate": {"custom_model_data":1101}, "model": "runeware_models/cylinders/cylinder_copper"},
+		{"predicate": {"custom_model_data":1102}, "model": "runeware_models/cylinders/cylinder_iron"},
+		{"predicate": {"custom_model_data":1103}, "model": "runeware_models/cylinders/cylinder_gold"},
+		{"predicate": {"custom_model_data":1104}, "model": "runeware_models/cylinders/cylinder_diamond"},
+		{"predicate": {"custom_model_data":1105}, "model": "runeware_models/cylinders/cylinder_obsidian"},
+		{"predicate": {"custom_model_data":1200}, "model": "runeware_models/lock_trap"}
+	]
+}
