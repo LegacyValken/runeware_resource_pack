@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "runeware_textures/hell_ingot"
+        "layer0": "runeware_textures/ingots/hell_ingot"
     }
 }
