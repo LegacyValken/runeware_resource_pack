@@ -6,6 +6,7 @@
 	
 	"overrides": [
         {"predicate": {"custom_model_data":1000}, "model": "runeware_models/lock"},
+		{"predicate": {"custom_model_data":1001}, "model": "runeware_models/lock_claim"},
 		{"predicate": {"custom_model_data":1100}, "model": "runeware_models/cylinders/cylinder_stone"},
 		{"predicate": {"custom_model_data":1101}, "model": "runeware_models/cylinders/cylinder_copper"},
 		{"predicate": {"custom_model_data":1102}, "model": "runeware_models/cylinders/cylinder_iron"},

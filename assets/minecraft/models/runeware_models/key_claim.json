@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "runeware_textures/skeleton_key"
+        "layer0": "runeware_textures/key_claim"
     },
 
 	"display": 
