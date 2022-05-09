@@ -7,6 +7,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data":1000}, "model": "runeware_models/lucky_coin"},
 		{"predicate": {"custom_model_data":1100}, "model": "runeware_models/gems/ruby"},
-		{"predicate": {"custom_model_data":1101}, "model": "runeware_models/gems/sapphire"}
+		{"predicate": {"custom_model_data":1101}, "model": "runeware_models/gems/sapphire"},
+		{"predicate": {"custom_model_data":1200}, "model": "runeware_models/gems/soul_gem"}
 	]
 }
