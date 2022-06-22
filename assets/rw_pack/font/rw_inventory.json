@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "rw_pack:img/inventory/generic_54.png",
+            "ascent": 13,
+            "height": 127,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "rw_pack:img/inventory/generic_45.png",
+            "ascent": 13,
+            "height": 108,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "rw_pack:img/inventory/lockpick_inventory.png",
+            "ascent": 13,
+            "height": 108,
+            "chars": [
+                "a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "rw_pack:img/inventory/debug_inventory.png",
+            "ascent": 13,
+            "height": 127,
+            "chars": [
+                "b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "rw_pack:img/inventory/space.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "-"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "rw_pack:img/inventory/space.png",
+            "ascent": -32768,
+            "height": -170,
+            "chars": [
+                "="
+            ]
+        }
+    ]
+  }
