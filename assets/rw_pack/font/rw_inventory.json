@@ -29,11 +29,20 @@
         },
         {
             "type": "bitmap",
-            "file": "rw_pack:img/inventory/debug_inventory.png",
+            "file": "rw_pack:img/inventory/lock_container_inventory.png",
             "ascent": 13,
-            "height": 127,
+            "height": 70,
             "chars": [
                 "b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "rw_pack:img/inventory/lock_inventory.png",
+            "ascent": 13,
+            "height": 73,
+            "chars": [
+                "c"
             ]
         },
         {
