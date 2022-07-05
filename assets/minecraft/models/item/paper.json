@@ -5,6 +5,7 @@
 	},
 	
 	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "runeware_models/error"},
         {"predicate": {"custom_model_data":1000}, "model": "runeware_models/lock_metal"},
 		{"predicate": {"custom_model_data":1200}, "model": "runeware_models/votebag"}
 	]
